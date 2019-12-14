@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UJIAN SIM ONLINE </string>
+    <string name="textview">Dalam Ujian SIM  Terdapat 25 soal :\n
+                            - Masing-masing soal memiliki 4 point\n
+                            - Jika benar semua akan mendapat score seratus\n
+                            - Tidak ada potongan point jika salah\n
+                            - Jika benar semua,kamu akan mendapat point 100\n
+                            - Sebelum mengerjakan seharusnya kamu berdoa
+    </string>
+</resources>
